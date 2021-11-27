@@ -8,6 +8,6 @@
 * Também foram usados ícones da página *Font Awesome - free icons*;
 * Embora o projeto esteja pronto, ainda está básico e pretendo melhorar com o tempo, dando mais vida para o código tornando-o mais interativo.
 
-🚀 🚀 🚀
+# 🚀 🚀 🚀
 
 ![killerflix](https://user-images.githubusercontent.com/82122343/118563903-c7582080-b745-11eb-8820-bc078f73ac37.png)
